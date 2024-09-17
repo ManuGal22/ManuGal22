@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ManuGal22
+- 👋 Hi, I’m Manuel Montufar Galnares
 - 👀 I’m interested in Data Science, Data Analysis and Buissness Intelligence
 - 🌱 I’m currently learning Data Analysis for Buissness
 - 💞️ I’m looking to collaborate on Data Projects
